@@ -1,4 +1,4 @@
-# How I entered and lost my first Kaggle competition.
+# How I entered and finished second in my first Kaggle competition.
 
 [Link to Kaggle competition]([(https://www.kaggle.com/competitions/epf-montpellier-2022/overview/evaluation)](https://www.kaggle.com/competitions/epf-montpellier-2022/overview))
 
